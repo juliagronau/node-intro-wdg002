@@ -1,0 +1,19 @@
+{
+  "name": "intro-wdg002",
+  "version": "1.0.0",
+  "description": "das ist unser package zu unserem node-intro",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "julia",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
